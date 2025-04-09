@@ -4,7 +4,7 @@ UserNest is a full-stack user management CRUD application built with **React (Vi
 
 ## 🚀 Live Demo
 
-👉 [Click here to visit the hosted app](https://your-deployment-link.com)
+👉 [Click here to visit the hosted app]([https://your-deployment-link.com](https://usernestapp.netlify.app/))
 
 ---
 
