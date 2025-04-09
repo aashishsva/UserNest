@@ -4,7 +4,7 @@ UserNest is a full-stack user management CRUD application built with **React (Vi
 
 ## 🚀 Live Demo
 
-👉 [Click here to visit the hosted app]([https://your-deployment-link.com](https://usernestapp.netlify.app/))
+👉 [Click here to visit the hosted app](https://usernestapp.netlify.app/)
 
 ---
 
@@ -36,7 +36,6 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/your-username/usernest.git
 cd usernest
-
 
 # React + Vite
 
